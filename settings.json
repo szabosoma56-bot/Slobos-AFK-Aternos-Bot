@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "culacsimbok-EJlH.aternos.me ",
+    "ip": "culacsimbok-EJlH.aternos.me:16224 ",
     "port": 16224,
     "version": "",
     "try-creative": false
