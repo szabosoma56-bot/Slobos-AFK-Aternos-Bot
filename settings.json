@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "culacsimbok-EJlH.aternos.me:16224 ",
+    "ip": "culacsimbok-EJlH.aternos.me",
     "port": 16224,
     "version": "",
     "try-creative": false
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
